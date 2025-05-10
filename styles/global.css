@@ -37,3 +37,12 @@ a:hover {
     text-decoration: underline;
 }
 
+.container {
+    padding-inline: 32px;
+    max-width: 1280px;
+    margin-inline: auto;
+}
+
+.bg-suface-color {
+    background-color: var(--surface-color);
+}
